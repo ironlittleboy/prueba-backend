@@ -1,4 +1,4 @@
-README - Sports Betting Application
+README - Sistema de reservas
 
 Backend
 
